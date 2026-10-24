@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/assets/images/logo_banner.png" alt="VelvetAura Logo" width="400">
+  <img src="https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/assets/images/logo_banner.png" alt="VelvetAura" width="100%">
 </p>
-
-<h1 align="center">VelvetAura</h1>
 
 <p align="center">
   A premium, modern e-commerce theme exclusively designed for RJ CMS and RJ Commerce. VelvetAura offers a luxurious, high-end shopping experience with deep RJBuilder integration.
@@ -81,6 +79,6 @@ If you want to customize the theme, here is a quick overview of the directory st
 This theme is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)**.
 
 - **You CAN:** Use this theme for free on unlimited personal or commercial websites.
-- **You CANNOT:** Modify, alter, or create derivative works of the source code. The theme must be used as-is.
+- **YOU CANNOT:** Modify, alter, or create derivative works of the source code. The theme must be used as-is.
 
 See the [LICENSE](LICENSE) file for more details.
